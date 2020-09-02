@@ -38,7 +38,8 @@ The paper embarks on predicting the outcomes of multiple images of ten objects u
 ### 3) PLATFORM USED - 
 GOOGLE COLAB (Colaboratory is a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud.) We are saving the file in the .ipynb extension .We can use it not only for building models for machine learning but for coding in various languages and other forms of work as well .
  
-### 4)PRODUCT REQUIREMENTS -  Server , Images/Objects , Large dataset ,good RAM ,high Graphical Processing Units (GPUs) and a comparatively good CPU .
+### 4)PRODUCT REQUIREMENTS - 
+Server , Images/Objects , Large dataset ,good RAM ,high Graphical Processing Units (GPUs) and a comparatively good CPU .
  
 ### 5)TECHNICAL REQUIREMENTS - Latest version of TensorFlow and Keras installed .
 Wide variety of images on which the classification will be done .
@@ -102,7 +103,7 @@ Train the model to fit the dataset  by using the normalized value of the x_train
 We will evaluate the model with the help of the evaluate function and using the parameters x_train_normalized and y_test_encoded .The function does the forward pass to understand the prediction of the model and it compares with the actual y_labels .
 If the accuracy obtained at this stage is equal or almost significant to the result we got during epoch , then we can clearly say our model has trained itself or else our model has just memorized the training set and hence a not-good accuracy .
   
-### 12)WORK-FLOW DIAGRAM OF THE PROJECT -
+### 12)WORK-FLOW DIAGRAM OF THE PROJECT - 
  
  
 ### 13)RESULTS 
