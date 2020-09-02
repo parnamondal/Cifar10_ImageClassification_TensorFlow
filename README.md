@@ -126,13 +126,20 @@ We can change this accuracy for the betterment of our model by changing the hype
 ### 15)FUTURE SCOPE
 Researchers all over the world are still working on creating models for image classification that mimic the human brain. They are using neural networks, AI, ML, computer vision, and many other technologies in this research. In the future, we may come across robots that would be capable of performing recognizing images just like humans.
 ### 16)REFERENCES
-_https://intellipaat.com/blog/future-scope-of-machine-learning/#:~:text=Researchers%20all%20over%20the%20world,tasks%20similar%20to%20a%20human._
+https://intellipaat.com/blog/future-scope-of-machine-learning/#:~:text=Researchers%20all%20over%20the%20world,tasks%20similar%20to%20a%20human.
+
 Google.com
+
 Deeplearning.ai
+
 coursera .com
+
 https://towardsdatascience.com/random-initialization-for-neural-networks-a-thing-of-the-past-bfcdd806bf9e
+
 https://www.investopedia.com/terms/n/neuralnetwork.asp#:~:text=A%20neural%20network%20is%20a,organic%20or%20artificial%20in%20nature.
+
 https://www.tensorflow.org/tutorials/images/classification
+
 https://towardsdatascience.com/image-pre-processing-c1aec0be3edf
 
 ### Link for Technical Design Document for this project :
