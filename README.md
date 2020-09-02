@@ -104,6 +104,8 @@ We will evaluate the model with the help of the evaluate function and using the 
 If the accuracy obtained at this stage is equal or almost significant to the result we got during epoch , then we can clearly say our model has trained itself or else our model has just memorized the training set and hence a not-good accuracy .
   
 ### 12)WORK-FLOW DIAGRAM OF THE PROJECT - 
+
+![Alt Text](IMAGESS/finak.jpg)
  
  
 ### 13)RESULTS 
